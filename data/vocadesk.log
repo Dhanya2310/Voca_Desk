@@ -1,0 +1,235 @@
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_what_time_is_it0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'What time is it?'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_current_time0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'current time'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_whats_the_time0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: "what's the time"
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_what_is_todays_date0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: "What is today's date?"
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_what_day_is_it0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'what day is it'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_current_date0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'current date'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_open_youtube0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'open YouTube'
+[2026-09-17 22:31:07] INFO     app.system_actions — Opened website: https://www.youtube.com
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_open_google0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'open Google'
+[2026-09-17 22:31:07] INFO     app.system_actions — Opened website: https://www.google.com
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_open_github0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'open GitHub'
+[2026-09-17 22:31:07] INFO     app.system_actions — Opened website: https://www.github.com
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_search_for_query0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'search for Python decorators'
+[2026-09-17 22:31:07] INFO     app.system_actions — Searching for: Python decorators
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_search_google_for0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'search Google for machine learning'
+[2026-09-17 22:31:07] INFO     app.system_actions — Searching for: machine learning
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_google_query0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'google what is recursion'
+[2026-09-17 22:31:07] INFO     app.system_actions — Searching for: what is recursion
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_unknown_returns_helpful_m0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'xyzzy frobulate zorblax'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_empty_input0\test.db
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_take_a_note0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'take a note: buy groceries tomorrow'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_note_colon0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'note: finish the DSA assignment'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_show_notes_empty0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_show_notes_after_adding0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'take a note: test note content'
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_delete_note0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'take a note: note to be deleted'
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'delete note 1'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_remind_me_in_minutes0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'remind me in 30 minutes to drink water'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_remind_me_at_time0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'remind me at 11 PM to sleep'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_show_reminders_empty0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_show_reminders_after_addi0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'remind me in 60 minutes to check email'
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_hello0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'hello'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_hi0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'hi'
+[2026-09-17 22:31:07] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-0\test_help0\test.db
+[2026-09-17 22:31:07] DEBUG    app.command_processor — Processing command: 'help'
+[2026-09-17 22:36:37] DEBUG    app.settings — Settings loaded from C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk_settings.ini
+[2026-09-17 22:36:37] INFO     app.ai_client — No AI API key found — AI mode disabled.
+[2026-09-17 22:36:37] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-17 22:36:37] DEBUG    app.reminders — ReminderChecker started.
+[2026-09-17 22:36:53] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'what time is it?'
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'what is today date?'
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'take a note: build vocadesk voice assistant'
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'remind me in 10 minutes to take a break'
+[2026-09-17 22:36:53] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 22:37:32] DEBUG    app.text_to_speech — TTS queued: 'VocaDesk is ready.'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_what_time_is_it0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'What time is it?'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_current_time0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'current time'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_whats_the_time0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: "what's the time"
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_what_is_todays_date0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: "What is today's date?"
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_what_day_is_it0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'what day is it'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_current_date0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'current date'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_open_youtube0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'open YouTube'
+[2026-09-17 22:37:51] INFO     app.system_actions — Opened website: https://www.youtube.com
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_open_google0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'open Google'
+[2026-09-17 22:37:51] INFO     app.system_actions — Opened website: https://www.google.com
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_open_github0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'open GitHub'
+[2026-09-17 22:37:51] INFO     app.system_actions — Opened website: https://www.github.com
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_search_for_query0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'search for Python decorators'
+[2026-09-17 22:37:51] INFO     app.system_actions — Searching for: Python decorators
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_search_google_for0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'search Google for machine learning'
+[2026-09-17 22:37:51] INFO     app.system_actions — Searching for: machine learning
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_google_query0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'google what is recursion'
+[2026-09-17 22:37:51] INFO     app.system_actions — Searching for: what is recursion
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_unknown_returns_helpful_m0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'xyzzy frobulate zorblax'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_empty_input0\test.db
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_take_a_note0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'take a note: buy groceries tomorrow'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_note_colon0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'note: finish the DSA assignment'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_show_notes_empty0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_show_notes_after_adding0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'take a note: test note content'
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_delete_note0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'take a note: note to be deleted'
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'delete note 1'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_remind_me_in_minutes0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'remind me in 30 minutes to drink water'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_remind_me_at_time0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'remind me at 11 PM to sleep'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_show_reminders_empty0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_show_reminders_after_addi0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'remind me in 60 minutes to check email'
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_hello0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'hello'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_hi0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'hi'
+[2026-09-17 22:37:51] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-1\test_help0\test.db
+[2026-09-17 22:37:51] DEBUG    app.command_processor — Processing command: 'help'
+[2026-09-17 22:58:41] DEBUG    app.settings — Settings loaded from C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk_settings.ini
+[2026-09-17 22:58:41] INFO     app.ai_client — No AI API key found — AI mode disabled.
+[2026-09-17 22:58:41] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-17 22:58:42] DEBUG    app.reminders — ReminderChecker started.
+[2026-09-17 22:58:42] INFO     main — VocaDesk started.
+[2026-09-17 22:58:42] INFO     app.reminders — Reminder fired: take a break
+[2026-09-17 22:58:42] DEBUG    app.text_to_speech — TTS queued: 'Reminder: take a break'
+[2026-09-17 22:58:54] DEBUG    app.command_processor — Processing command: 'Hyyy'
+[2026-09-17 22:58:54] DEBUG    app.text_to_speech — TTS queued: "I'm not sure how to help with that. Say 'help' to see what I"
+[2026-09-17 22:59:17] DEBUG    app.command_processor — Processing command: 'I want to open my web development file'
+[2026-09-17 22:59:17] DEBUG    app.text_to_speech — TTS queued: "I'm not sure how to help with that. Say 'help' to see what I"
+[2026-09-17 22:59:45] DEBUG    app.command_processor — Processing command: 'Help'
+[2026-09-17 22:59:45] DEBUG    app.text_to_speech — TTS queued: "Here's what I can do:\n  • What time is it? / What's the date"
+[2026-09-17 23:01:08] DEBUG    app.command_processor — Processing command: 'Show my notes'
+[2026-09-17 23:01:08] DEBUG    app.text_to_speech — TTS queued: 'You have 1 note(s):\n  [1] build vocadesk voice assistant'
+[2026-09-17 23:01:13] DEBUG    app.speech_to_text — Opening sounddevice InputStream (device=None, rate=16000)
+[2026-09-17 23:01:14] DEBUG    app.speech_to_text — Ambient noise: 72.81 | Speech threshold: 180.18
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_what_time_is_it0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'What time is it?'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_current_time0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'current time'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_whats_the_time0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: "what's the time"
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_what_is_todays_date0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: "What is today's date?"
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_what_day_is_it0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'what day is it'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_current_date0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'current date'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_open_youtube0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'open YouTube'
+[2026-09-17 23:02:58] INFO     app.system_actions — Opened website: https://www.youtube.com
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_open_google0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'open Google'
+[2026-09-17 23:02:58] INFO     app.system_actions — Opened website: https://www.google.com
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_open_github0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'open GitHub'
+[2026-09-17 23:02:58] INFO     app.system_actions — Opened website: https://www.github.com
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_search_for_query0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'search for Python decorators'
+[2026-09-17 23:02:58] INFO     app.system_actions — Searching for: Python decorators
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_search_google_for0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'search Google for machine learning'
+[2026-09-17 23:02:58] INFO     app.system_actions — Searching for: machine learning
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_google_query0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'google what is recursion'
+[2026-09-17 23:02:58] INFO     app.system_actions — Searching for: what is recursion
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_unknown_returns_helpful_m0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'xyzzy frobulate zorblax'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_empty_input0\test.db
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_take_a_note0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'take a note: buy groceries tomorrow'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_note_colon0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'note: finish the DSA assignment'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_show_notes_empty0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_show_notes_after_adding0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'take a note: test note content'
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'show my notes'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_delete_note0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'take a note: note to be deleted'
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'delete note 1'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_remind_me_in_minutes0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'remind me in 30 minutes to drink water'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_remind_me_at_time0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'remind me at 11 PM to sleep'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_show_reminders_empty0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_show_reminders_after_addi0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'remind me in 60 minutes to check email'
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'show my reminders'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_hello0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'hello'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_hi0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'hi'
+[2026-09-17 23:02:58] DEBUG    app.database — Database initialised at C:\Users\naikd\AppData\Local\Temp\pytest-of-naikd\pytest-2\test_help0\test.db
+[2026-09-17 23:02:58] DEBUG    app.command_processor — Processing command: 'help'
+[2026-09-17 23:08:05] DEBUG    app.settings — Settings loaded from C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk_settings.ini
+[2026-09-17 23:08:07] INFO     app.ai_client — AI backend: Gemini 1.5 Flash
+[2026-09-17 23:08:07] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-17 23:08:08] DEBUG    app.reminders — ReminderChecker started.
+[2026-09-17 23:08:08] INFO     main — VocaDesk started.
+[2026-09-17 23:08:20] DEBUG    app.command_processor — Processing command: 'Help'
+[2026-09-17 23:08:20] DEBUG    app.text_to_speech — TTS queued: "Here's what I can do:\n  • What time is it? / What's the date"
+[2026-09-17 23:09:25] DEBUG    app.command_processor — Processing command: 'Open youtube'
+[2026-09-17 23:09:25] INFO     app.system_actions — Opened website: https://www.youtube.com
+[2026-09-17 23:09:25] DEBUG    app.text_to_speech — TTS queued: 'Opening Youtube.'
+[2026-09-17 23:09:48] DEBUG    app.settings — Settings loaded from C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk_settings.ini
+[2026-09-17 23:09:48] INFO     app.ai_client — AI backend: Gemini 1.5 Flash
+[2026-09-17 23:09:48] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-17 23:09:49] DEBUG    app.reminders — ReminderChecker started.
+[2026-09-17 23:09:49] INFO     main — VocaDesk started.
+[2026-09-17 23:09:56] DEBUG    app.command_processor — Processing command: 'help'
+[2026-09-17 23:09:56] DEBUG    app.text_to_speech — TTS queued: "Here's what I can do:\n  • What time is it? / What's the date"
+[2026-09-17 23:12:39] DEBUG    app.command_processor — Processing command: 'reminder'
+[2026-09-17 23:12:39] DEBUG    app.text_to_speech — TTS queued: "I'm not sure how to help with that. Say 'help' to see what I"
+[2026-09-17 23:13:02] DEBUG    app.command_processor — Processing command: '• Show my reminders'
+[2026-09-17 23:13:02] DEBUG    app.text_to_speech — TTS queued: 'You have 1 reminder(s):\n  [1] Sep 17 at 10:46 PM — take a br'
+[2026-09-18 22:59:15] DEBUG    app.settings — Settings loaded from C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk_settings.ini
+[2026-09-18 22:59:16] INFO     app.ai_client — AI backend: Gemini 1.5 Flash
+[2026-09-18 22:59:16] DEBUG    app.database — Database initialised at C:\Users\naikd\.gemini\antigravity\scratch\VocaDesk\data\vocadesk.db
+[2026-09-18 22:59:17] DEBUG    app.reminders — ReminderChecker started.
+[2026-09-18 22:59:17] INFO     main — VocaDesk started.
